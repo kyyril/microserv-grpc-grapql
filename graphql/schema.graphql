@@ -4,7 +4,7 @@ scalar Time
 type Account {
   id: String!
   name: String!
-  orders: [order]!
+  orders: [Order]!
 }
 input AccountInput {
   name: String!

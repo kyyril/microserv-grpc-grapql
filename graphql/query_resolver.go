@@ -1,4 +1,1 @@
-Accounts
-
-
-Products
+package main

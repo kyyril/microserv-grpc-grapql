@@ -2,7 +2,6 @@ schema: schema.graphql
 
 models:
   Account:
-    model: github.com/kyyril/microserv-grpc-graphql/graphql.Account
     fields:
       orders:
-        resolver: tru
+        resolver: true
