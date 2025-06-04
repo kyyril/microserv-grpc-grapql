@@ -1,9 +1,9 @@
 package main
 
 type Server struct {
-	// 	accountClient
-	// 	catalogClient
-	// 	orderClient
+		// accountClient *account.Client
+		// catalogClient *catalog.Client
+		// orderClient  *order.Client
 }
 
 // func NewGraphqlServer(accountUrl, catalogUrl, orderUrl string) (*Server, error) {
